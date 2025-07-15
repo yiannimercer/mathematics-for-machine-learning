@@ -1,6 +1,7 @@
 |    Course Name     |          Topic          |   Date    | Tags |
 | :----------------: | :---------------------: | :-------: | :--: |
 | **Linear Algebra** | Determinants & Inverses | 7/14/2025 |      |
+
 [Class Video Link](https://www.coursera.org/learn/linear-algebra-machine-learning/lecture/nK1Eb/determinants-and-inverses)
 
 # Summary
