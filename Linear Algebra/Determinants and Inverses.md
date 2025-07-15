@@ -14,10 +14,6 @@ While matrices can be described as something that transforms space, we can also 
 - Determinants: a scalar value calculated from the elements of a square matrix. It provides information about the matrix's properties, such as its invertibility and its effect on geometric transformations like scaling and orientation
 	- You can think of it as measure how much the matrix has transformed when scaling it 
 
-
-# Additional Resources
-- Name the hyperlink in brackets then outside the brackets put the URL in parens
-
 # Notes
 ## Determinants
 ### Area = Determinants
@@ -30,7 +26,7 @@ c & d \\
 $$
 
 <p align="center">
-  <img src="images/image1.png" width="200">
+  <img src="../images/image1.png" width="200">
 </p>
 * The **area of this parallelogram** is **ad - bc**, which would be `|A| = ad - bc`, which is the **determinant of A** 
 * With...
@@ -68,7 +64,7 @@ $$
 $$
 this transforms the line in the spaces linearly, and creates no volume, meaning no determinant, `|A| = 0`
 <p align="center">
-  <img src="images/image2.png" width="200">
+  <img src="../images/image2.png" width="200">
 </p>
 ## Inverses
 * Inverse matrix let's you undo your transformations, where you can go from the new transformation to the original transformation
