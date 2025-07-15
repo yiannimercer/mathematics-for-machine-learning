@@ -5,7 +5,7 @@ Repository Structure
 ```
 mathematics-for-machine-learning
 ├───Linear Algebra
-	└───Determinants & Inverses
+│	└───Determinants & Inverses
 ├───Multivariate Calculus
 └───PCA
 ```
